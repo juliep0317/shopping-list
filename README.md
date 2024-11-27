@@ -26,7 +26,7 @@ README.md - The README.md file gives an overview of the project and it's feature
 
 How to Use
 
-1. Open the index.html file in your web browser
+1. Visit https://juliep0317.github.io/shopping-list/
 2. Click in the add item window and type the item you would like to add.
 3. Click the ADD button.
 4. The item has been added to your task list.
